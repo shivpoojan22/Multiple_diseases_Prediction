@@ -1,12 +1,6 @@
 ## Machine Learning for Disease Prediction
 This GitHub repository contains a machine learning solution for predicting three major diseases: diabetes, Parkinson's disease, and heart disease. 
 The solution is built using Python and leverages various ML libraries and technologies.
-
-
-Video Link of Working Project : https://youtu.be/Q7kKNASXQTE
-
-
-
 # Features
 
 Accurate prediction models for diabetes, Parkinson's disease, and heart disease.
